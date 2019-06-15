@@ -1,0 +1,45 @@
+
+.contenedor{
+    border: solid seagreen 1px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(227, 200, 245)
+}
+
+.contenedor2{
+    border: solid red 1px;
+    background-color: rgb(170, 243, 243)
+}
+.cont3{
+    border: solid blue 1px
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+
+}
+/* h1{
+    border: solid 3px aqua;
+    display: inline-block;
+    height: 400px; 
+    margin-left: 30px;
+    font-size: 40px;       
+} */
+p{
+    /* border: solid 3px rgb(220, 150, 235); 
+    display: inline;
+    height: 400px;      */
+    color: rgb(139, 80, 120);
+    font-size: 18px;
+    font-family: 'Abril Fatface', cursive;
+}
+a{
+    border: solid 3px rgba(91, 65, 116, 0.445);
+    display: inline 
+}
+.imagen1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}

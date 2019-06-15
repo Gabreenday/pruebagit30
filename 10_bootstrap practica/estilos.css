@@ -1,0 +1,113 @@
+.container{
+    border: solid 1px chocolate
+    
+}
+
+.seccionizquierda {
+border: solid 1px cornflowerblue
+
+}
+
+.seccionderecha{
+    border: solid 1px rgb(230, 28, 213);
+    width: 40%;
+
+
+}
+
+.d1{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    /* background-image: url("https://yt3.ggpht.com/a/AGF-l796ooNsAIoRTr1MOAgNs0UxwQ6mrHZwV-qcmA=s900-mo-c-c0xffffffff-rj-k-no"); */
+    /* background-size: cover; */
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+    
+}
+
+
+
+.d1:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+
+
+.d2{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+
+}
+
+.d2:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+
+.d3{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+}
+
+.d3:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+
+.d4{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+}
+
+.d4:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+
+
+.d5{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+}
+
+.d5:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+
+.d6{
+    border: solid 1px brown;
+    width: 120px;
+    height: 120px;
+    transition: 1s all ease;
+    color: rgb(64, 143, 212)
+}
+.d6:hover{
+    background-color: rgba(184, 8, 8, 0.89);
+    color:white; 
+}
+.seccionarriba{
+    border: solid 1px palevioletred
+
+
+}
+
+.seccionabajo{
+    border: solid 1px rgb(153, 138, 4);
+    
+
+
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(66, 117, 111)
+}
+
+/* .container{
+    border: solid 2px cadetblue
+}
+
+.row{
+    border: solid 2px rgb(160, 95, 160)
+} */
+
+.logo{
+    width: 80px;
+    
+}
+
+.btn{
+    border-radius: 0;
+    background-color: black;
+    border: solid 1px white
+}
+
+.btn:hover{
+    background-color: white;
+    color: black
+}
+
+.card > img{
+    border: solid 1px white
+}

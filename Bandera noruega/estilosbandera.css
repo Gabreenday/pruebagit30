@@ -1,0 +1,61 @@
+*{
+    background-color: rgb(47, 0, 255)
+}
+
+body{
+    margin: 0;
+    padding: 0;´
+    width: 100%;
+    height: 100vh;  
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cajagrande1{
+
+    /* border: solid 2px rgb(29, 192, 70); */
+    width: 450px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column
+
+
+
+}
+
+.cajablanca{
+    border: solid 15px rgb(255, 255, 255);
+    width: 400px;
+    height: 250px;
+
+
+}
+.cajaroja1{
+    border: solid 10px red;
+    width: 350px;
+    height: 200px;
+
+}
+
+
+.cajagrande2{
+    /* border: solid 2px rgb(239, 239, 243); */
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+
+.cajablanca2{
+    border: solid 15px rgb(239, 239, 243);
+    width: 700px;
+    height: 250px;
+    
+
+}
+
